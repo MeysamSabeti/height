@@ -4,6 +4,12 @@ body{
 .main{
     margin-top: 7rem;
 }
+.row2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:row;
+}
 #form{
     display: flex;
     align-items: center;
