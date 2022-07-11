@@ -4,6 +4,15 @@ body{
 .main{
     margin-top: 7rem;
 }
+#form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#form input{
+    margin-top: 0.5rem;
+}
 
 .result{
     font-weight: bold;
